@@ -30,6 +30,6 @@
     "mocha": "~1.17.0"
   },
   "dependencies": {
-    "webdriverio": "^2.1.0"
+    "webdriverio": "webdriverio/webdriverio"
   }
 }
